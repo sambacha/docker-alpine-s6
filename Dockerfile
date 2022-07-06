@@ -1,4 +1,5 @@
 # syntax=docker/dockerfile:1
+
 ARG ALPINE_VERSION="latest"
 ARG XX_VERSION="1.1.1"
 
